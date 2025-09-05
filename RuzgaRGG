@@ -1,0 +1,10 @@
+
+# Arkadaşlarınızı şaşırtın!
+Benim_ilgili_gercekler = ["Yusuf Futbol oynamayı çok seviyor", "Rüzgarın Bal adında çok tatlı bir evcil hayvanı var", "Yusuf Mantı sever","Öğretmenimiz lahmacun sever","Urfa kebab rüzgar sever"] 
+
+name = input()
+print("Hi ", name)
+
+import random
+
+print(random.choice(Benim_ilgili_gercekler))
