@@ -30,4 +30,4 @@ async def duck(ctx):
     await ctx.send(image_url)
 
     
-bot.run("MTQxNjQ4NjY2ODI3MzMyNDA3NA.GH040O.miF5UBi0FD3iPC4iQGwWuEG7PKPse59nkf0Dq0")
+bot.run("https://nolur.com/nah.png <-- BAK BULURSUN >:D")
